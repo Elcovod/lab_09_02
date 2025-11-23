@@ -1,0 +1,3 @@
+﻿  lab_09_02_01.cpp
+F:\Project\lab_09_02_01\lab_09_02_01\lab_09_02_01.cpp(20,7): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  lab_09_02_01.vcxproj -> F:\Project\lab_09_02_01\x64\Debug\lab_09_02_01.exe
